@@ -39,6 +39,7 @@ readings (needed even in a non-private setting).
 1. Required tool kits: PBL http://crypto.stanford.edu/pbc, OpenSSL:https://www.openssl.org/
 2. Using GCC to complie the source file in the "Codes" folder and then run "./Sipster.run".
 3. You can also directly download and run the complied file "./Sipster.run".
+4. The **interactive program** is stored under the folder “Example# Evaluate the computation time of SM”  which takes different inputs to test the proposed algorithm from various aspects, such as different billing phases and the number of tokens. 
 
 **Example compile commands on iMac devices:**
 
