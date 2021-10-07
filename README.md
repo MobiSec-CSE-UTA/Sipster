@@ -43,4 +43,5 @@ readings (needed even in a non-private setting).
 5. **An additional interactive program** is stored under the folder "Sipster_codes", which benchmarks the Sipster from various aspects by taking different combinations of inputs, including the Sipster role (devices), algorithm (billing) phases, the number of RUs (i.e., N), and the number of tokens (i.e., K).  
 
 **Instructions of setting up the Sipster runtime environments:**
+
 The step-by-step instructions are provided in the manual 
