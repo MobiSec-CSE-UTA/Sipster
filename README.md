@@ -44,4 +44,4 @@ readings (needed even in a non-private setting).
 
 **Instructions of setting up the Sipster runtime environments:**
 
-The step-by-step instructions are provided in the manual 
+The step-by-step instructions are provided in the manual: https://github.com/MobiSec-CSE-UTA/Sipster/blob/main/Sipster%20Setup%20Environment.pdf 
