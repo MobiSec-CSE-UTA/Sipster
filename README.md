@@ -40,7 +40,7 @@ readings (needed even in a non-private setting).
 2. Using GCC to complie the source file in the "Codes" folder and then run "./Sipster.run".
 3. You can also directly download and run the complied file "./Sipster.run".
 4. The **interactive program** is stored under the folder “Example# Evaluate the computation time of SM” and “RU_UC” which takes different inputs to test the proposed algorithm from various aspects, such as different billing phases and the number of tokens. 
-5. **An additional interactive program** is stored under the folder "Sipster_codes" which benchmark the Sipster by taking more inputs including the different Sipster role (devices), algorithm (billing) phases, the number of RUs (i.e., N), and the number of tokens (i.e., K). 
+5. **An additional interactive program** is stored under the folder "Sipster_codes" which benchmarks the Sipster by taking more inputs including the different Sipster role (devices), algorithm (billing) phases, the number of RUs (i.e., N), and the number of tokens (i.e., K). 
 
 **Example compile commands on iMac devices:**
 
